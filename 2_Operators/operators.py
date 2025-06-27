@@ -110,6 +110,38 @@ print(x == y)       # True (same content)
 
 print(x is not y)   # True
 print(x is not z)   # False
+
+# -------------------------------
+# 8. TAKING INPUTS input()
+# -------------------------------
+# Used to take inputs and asigned to a variable
+
+a = input("Enter a Number : ") 
+b = input("Enter a Name : ")
+c = "The age of " + b + " is " + a
+print(type(b))
+print(c)
+
+# Writing a Program to add two numbers from the inputs given by the users
+num_1 = int(input("Enter Number 1 : "))   # We did typecasting because if we don't, a will take input as string
+num_2 = int(input("Enter Number 2 : "))
+print(type(num_1))
+ans = str(num_1 + num_2)
+print("The sum of two given numbers are : " + ans)
+
+# -------------------------------
+# 9.Escape Sequences
+
+'''
+Common Escape Sequences are : 
+-> \n : Newline
+-> \t : Tab
+-> \\ : Backslash
+-> \" : Double Quotes
+-> \' : Single Quotes
+'''
+# -------------------------------
+
 # -------------------------------
 # END OF FILE
 # -------------------------------
