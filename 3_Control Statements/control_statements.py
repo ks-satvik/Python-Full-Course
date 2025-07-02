@@ -27,6 +27,34 @@ else:
     print("Less than 20")
 
 # -------------------------------
+# 1.1. MATCH-CASE STATEMENT (like switch-case) ***** NEW NOTES SECTION ADDED *****
+# -------------------------------
+
+# Introduced in Python 3.10 as a structural pattern matching tool.
+# Similar to switch-case in other languages, but more powerful.
+
+# Syntax:
+# match variable:
+#     case pattern1:
+#         code block
+#     case pattern2:
+#         code block
+#     case _:
+#         default code block
+
+x = 15
+
+match x:
+    case 20:
+        print("Value is 20")
+    case 15:
+        print("Value is 15")
+    case _:
+        print("Value is something else")
+
+
+
+# -------------------------------
 # 2. LOOP CONSTRUCTS (for, while)
 # -------------------------------
 
