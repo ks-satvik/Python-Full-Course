@@ -150,7 +150,7 @@ print("'hi'.rjust(10, '.'):", "hi".rjust(10, '.'))     # Right align
 # ------------------------------------------------------
 # 10. STRING FORMATTING TECHNIQUES
 # ------------------------------------------------------
-name = "Satvik"
+name = "Kumar"
 score = 99.56789
 
 # Classic %-style
