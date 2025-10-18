@@ -39,6 +39,7 @@ s1 = Student("Satvik", 101)
 s2 = Student("Aarav", 102)
 
 s1.display()
+
 s2.display()
 
 # ------------------------------------------------------

@@ -32,7 +32,7 @@ print("Access nested element:", nested_list[1][0])  # Output: 3
 
 # List can be empty
 empty_list = []
-print("Empty List:", empty_list)
+print("Empty List :", empty_list)
 
 # ------------------------------------------------------
 # 2. COMMON LIST METHODS

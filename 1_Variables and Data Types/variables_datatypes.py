@@ -8,7 +8,7 @@
 # 1. VARIABLE ASSIGNMENT
 # -------------------------------
 
-x = 5               # Integer
+x = 7               # Integer
 y = 3.14            # Float
 name = "Satvik"     # String
 is_student = True   # Boolean

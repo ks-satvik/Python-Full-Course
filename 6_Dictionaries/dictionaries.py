@@ -173,7 +173,7 @@ product = {
         "storage": "512GB SSD"
     }
 }
-print("Laptop RAM:", product["specs"]["ram"])
+print("Laptop RAM :", product["specs"]["ram"])
 
 # ------------------------------------------------------
 # END OF FILE

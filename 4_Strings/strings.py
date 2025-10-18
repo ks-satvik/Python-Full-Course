@@ -66,7 +66,7 @@ print(len(text))
 # 4. SLICING STRINGS
 # ------------------------------------------------------
 s = "KumarSatvik"
-# Slicing gives substrings: [start:stop] (stop excluded)
+# Slicing gives substrings: [start:stop:step] (stop excluded)
 print("s[0:5]:", s[0:5])      # Kumar
 print("s[:5]:", s[:5])        # Same as above
 print("s[5:]:", s[5:])        # Satvik

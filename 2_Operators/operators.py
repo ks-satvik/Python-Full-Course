@@ -10,6 +10,7 @@
 
 a = 10
 b = 3
+c = 45
 
 print("Addition:", a + b)        # 13
 print("Subtraction:", a - b)     # 7

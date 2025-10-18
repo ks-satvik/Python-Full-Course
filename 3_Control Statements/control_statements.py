@@ -17,7 +17,7 @@
 # else:
 #     code block
 
-x = 15
+x = 14
 
 if x > 20:
     print("Greater than 20")
