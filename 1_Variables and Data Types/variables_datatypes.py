@@ -96,7 +96,7 @@ pi_value = 3.1415
 # - Choose descriptive names (e.g., total_price instead of tp)
 # - Avoid using Python keywords (like list, int, str) as variable names
 
-# Example of good naming:
+# Examples of good naming are:
 total_price = 299.99
 customer_age = 30
 is_valid_user = True
