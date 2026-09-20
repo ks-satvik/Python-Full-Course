@@ -6,6 +6,7 @@
 # 1. LISTS - DEFINITION, METHODS, MUTABILITY
 # ------------------------------------------------------
 
+# Strings are immutable, lists are mutable
 # Lists are ordered, mutable (changeable), and allow duplicate elements
 # Lists can contain elements of different data types
 
